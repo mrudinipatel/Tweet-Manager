@@ -1,7 +1,7 @@
 # Tweet-Manager 🐥
 
-This project was created for CIS*2500.
-Assignment #3: Dynamic Data Structures (linked lists) - Tweet Manager
+This project was created for CIS*2500.  
+Assignment #3: Dynamic Data Structures (linked lists) - Tweet Manager  
 
 ## To Launch 🚀
 ```make```  
